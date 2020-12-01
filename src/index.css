@@ -1,0 +1,18 @@
+@import '../node_modules/bulma/css/bulma.min.css';
+
+body{
+    padding: 0;
+    margin: 0;
+}
+
+footer{
+    bottom: 0;
+    padding: 10px;
+    position: fixed;
+    width: 100%;
+    text-align: center;
+}
+
+.t-center{
+    text-align: center;
+}
